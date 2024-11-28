@@ -66,3 +66,11 @@
      background-color: #000000;
     transform: scale(0.95);
 }
+@media screen and (max-width:570px){
+    .modal__form-win{
+        
+        width: 95%;
+    }
+    
+    
+}
